@@ -20,14 +20,14 @@
 } */
 
 img{
-  margin: auto;
-  /*transform-origin: top;
+  /* margin: auto; */
+  transform-origin: top;
   /* max-width: 33%; */
   /* max-width: 100%;*/
-  max-height: 200px;
-  object-fit: contain;
+  /* max-height: 200px; */
+  object-fit: cover;
   width: 100%;
-  height: auto;
+  height: 400px;
  
 
 }
